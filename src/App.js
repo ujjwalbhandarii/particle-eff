@@ -6,7 +6,7 @@ function App() {
     <div>
       <ParticleBackground />
       <div className="container">
-        <h1>Sachin sarkar</h1>
+        <h1>Demostration of Particle Js</h1>
       </div>
     </div>
   );
